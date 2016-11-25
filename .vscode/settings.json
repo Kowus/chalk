@@ -1,0 +1,6 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "html.format.enable": false,
+    "editor.formatOnType": false,
+    "editor.formatOnSave": false
+}

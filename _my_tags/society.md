@@ -1,0 +1,4 @@
+---
+slug: society
+name: Society
+---
