@@ -3,7 +3,7 @@ layout: post
 title:  "Dear Casprine"
 date:   2016-11-19 16:12:44 +0000
 description: "Letter to the curious student"
-tags: [society]
+tags: web
 ---
 
 #### Dear Casprine,

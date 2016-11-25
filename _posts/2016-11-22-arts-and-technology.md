@@ -3,7 +3,7 @@ layout: post
 title: "Cultural And Creative Industries"
 description: "How would you describe Ghana's cultural and creative industries?"
 date:   2016-11-22 22:45:44 +0000
-tags: [society]
+tags: web
 ---
 
 > Magical, but sabotaged by self doubt and little support

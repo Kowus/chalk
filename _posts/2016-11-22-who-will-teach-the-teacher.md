@@ -2,7 +2,7 @@
 layout: post
 title: "Who Will Teach The Teacher"
 description: "Why I switch timezones"
-tags: [me, general]
+tags: web
 ---
 
 #### Taking Baby Steps Up The Ladder
